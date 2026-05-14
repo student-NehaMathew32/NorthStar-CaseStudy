@@ -28,5 +28,4 @@ Final submitted report in PDF format.
 - Google Colab
 - GitHub
 
-## Google Colab Notebooks
-Links will be added here once notebooks are complete.
+
